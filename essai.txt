@@ -1,2 +1,6 @@
 coucou ceci est un essai de conflit
+<<<<<<< HEAD
 fusion
+=======
+>>>>>>> nouvelle-branche
+coucou ceci est un essai de conflit
