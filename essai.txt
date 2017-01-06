@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 coucou ceci est un essai de conflit
 <<<<<<< HEAD
 fusion
@@ -13,3 +14,7 @@ coucou ceci est un essai de conflit
 =======
 coucou ceci est un essai de conflit deuxieme.
 >>>>>>> nouvelle-branche
+=======
+coucou ceci est un essai de conflit deuxieme essai
+>>>>>>> nouvelle-branche
+coucou
