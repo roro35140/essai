@@ -1,2 +1,2 @@
-coucou ceci est un essai
+coucou ceci est un essai de conflit
 fusion
